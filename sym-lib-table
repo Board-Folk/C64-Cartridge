@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "C64 Cart")(type "KiCad")(uri "${KIPRJMOD}/C64 Cart.kicad_sym")(options "")(descr ""))
+)
